@@ -14,6 +14,16 @@
 
 ---
 
+### 🛠️ Technical Skills
+
+- 🔧 **Kernel development**: driver communication, CR3/DTB handling, manual mapping, patchguard/DSE evasion  
+- 📦 **Reverse engineering**: IDA Pro, x64dbg, pattern scanning, PE analysis, structure decoding  
+- 🧬 **Bypass techniques**: syscalls spoofing, NMI callbacks, thread cloaking, memory hiding  
+- 🛡️ **Anti-cheat engineering**: module integrity, VAD scanning, handle monitoring, PTE inspection  
+- ⚙️ **Custom tools**: injectors, loaders, remote controllers, debuggers, anti-debug logic
+
+---
+
 ### 🧰 Tools & Technologies
 
 <p align="left">
@@ -47,4 +57,3 @@
 
 > ⚔️ *Security through understanding both attack and defense.*  
 > 🔒 *Let’s keep the games clean, fair, and challenging.*
-
