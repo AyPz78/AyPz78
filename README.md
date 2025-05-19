@@ -9,7 +9,6 @@
 - 🧠 **Learning**: Windows Internals, obfuscation, mutation & virtualization  
 - 🤝 **Open to collaborate on**: Serious and innovative game security projects  
 - 🧪 **Experience**: Developed tools on games like *R6, CoD, Rust, FN, ARK, Valorant*, and more  
-- 🌐 **Portfolio**: [GitHub Portfolio](https://github.com/AyPz78/Portfolio)  
 - 📫 **Reach me on Discord**: `AyPz`  
 - 📄 **Languages**: Fluent in C++, Python, C#, Rust
 
