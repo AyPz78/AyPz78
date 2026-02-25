@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AyPz</h1>
-<h3 align="center">💻 Low-level security researcher — Windows internals, kernel development, malware analysis and hypervisor technology.</h3>
+<h3 align="center">💻 Low-level security researcher Windows internals, kernel development, malware analysis and hypervisor technology.</h3>
 
 🔍 About Me
 
