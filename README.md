@@ -19,9 +19,13 @@
 🛠️ Technical Skills
 
 🔧 Kernel development: Windows drivers, kernel-mode communication, memory management
+
 📦 Reverse engineering: IDA Pro, x64dbg, PE analysis, protocol analysis
+
 🧬 Offensive security: memory forensics, EDR/AV research, evasion techniques
+
 🛡️ Defensive security: integrity checking, process monitoring, anti-debug, anti-injection
+
 ⚙️ Virtualization: hypervisor development, AMD SVM, hardware-assisted security
 
 
