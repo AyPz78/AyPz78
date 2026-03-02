@@ -4,10 +4,15 @@
 🔍 About Me
 
 🎯 Currently working on: Hypervisor development & kernel security tools
+
 🧠 Learning: Virtualization-based security, Windows 11 internals
+
 🤝 Open to collaborate on: Security research, red team tooling, EDR internals
+
 🧪 Experience: 2+ years in kernel development and offensive security research
+
 📫 Reach me on Discord: AyPz
+
 📄 Languages: C/C++, Python, C#, Rust
 
 
