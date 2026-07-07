@@ -9,7 +9,7 @@
 
 🤝 Open to collaborate on: Security research, red team tooling, EDR internals
 
-🧪 Experience: 2+ years in kernel development and offensive security research
+🧪 Experience: 3+ years in kernel development and offensive security research
 
 📫 Reach me on Discord: AyPz
 
